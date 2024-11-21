@@ -38,6 +38,8 @@ Main Components:
 
 3. main Class- Controls the overall game flow, including initialization, score tracking, and collision detection.
 
+4. Scoreboard Class-Keeps track of your score. Everytime the snake eats food, your score increases by one.
+
 
 
 Feel free to replace `snake_game.py` with your actual filename and modify any sections to fit your actual project structure and specific instructions.
